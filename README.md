@@ -1,7 +1,6 @@
 # Collapse Building Detector Computer Vision App
 App with interface about Computer Vision Project in Machine learning Detecting a Collapse Building with 3 Classes
-
-Bagus, sebelum membuat interface dengan Streamlit, **pengecekan instalasi environment** sangat penting agar semuanya berjalan lancar. Berikut daftar pengecekan dan cara melakukannya:
+ **pengecekan instalasi environment** sangat penting agar semuanya berjalan lancar. Berikut daftar pengecekan dan cara melakukannya:
 
 ---
 
